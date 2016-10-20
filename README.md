@@ -1,4 +1,4 @@
-# gmir10: Global Map Iran 1.1
+# gmir11: Global Map Iran 1.1
 ## notice
 Only use in projects that belong to ISCGM and United Nations projects.International boundaries of the Global Map Iran are not authoritative.
 
